@@ -1,1 +1,1 @@
-# finnley-howald-website
+# finnley-website
